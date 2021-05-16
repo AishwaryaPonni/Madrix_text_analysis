@@ -7,6 +7,16 @@ Team members:
 - Indu Subramaniam
 - Indu Subramanian
 
+### Hacakthon Domain: AI/ML for human development  
+
+### Problem Statement Chosen: Text Sentiment Analysis - trying to get emotion from text
+
+Development tools: Google Colaboratory, VSCode  
+Front-end: HTML Bootstrap  
+Web framework: Python Flask  
+
+Python packages used: numpy, pandas, sklearn, tensorflow, pickle  
+
 ### Abstract: 
 The **objective** of this project is to perform **text sentiment analysis** - to find emotion by text. The datasets were obtained from Kaggle.  
 IMDB review dataset for sentiment analysis: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews  
