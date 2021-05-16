@@ -26,7 +26,7 @@ Classes: 'positive' or 'negative' sentiment.
 On the website, tamil words can be written in english, which will be transliterated to Tamil and translated to English. The model predicts output on the English sentence.  
 
 Emotions dataset for emotion classification: https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp  
-Classes: 'joy', 'sadness', 'anger', 'fear', 'surprise','love'.  
+Classes: 'joy', 'sadness', 'anger', 'fear', 'surprise', 'love'.  
 **Model used:** Bidirectional Long Short Term Memory with Embedding and Dense layers  
 **Training accuracy: 93.98%**  
 **Validation accuracy: 88.16%**  
