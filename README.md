@@ -8,7 +8,7 @@ Team members:
 - Indu Subramanian
 
 ### Abstract: 
-The **objective** of this project is to perform **text sentiment analysis** - to find emotion by text. The datasets were obtained from Kaggle. 
+The **objective** of this project is to perform **text sentiment analysis** - to find emotion by text. The datasets were obtained from Kaggle.  
 IMDB review dataset for sentiment analysis: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews  
 Classes: 'positive' or 'negative' sentiment.  
 **Models used**: Support Vector Machine, Logistic Regression, Bidirectional Long Short Term Memory network  
