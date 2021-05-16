@@ -37,3 +37,9 @@ Thus sentiment and emotion analysis can be performed on huge corpora and can pro
 ### User Interface: 
 **Senti Text Webpage for Sentiment Model**
 ![SentiHome page](Images/SentiText_Homepage.png?raw=true "Optional Title")
+![SentiText_English](Images/SentiText_English.png?raw=true "Optional Title")
+![SentiText_Tamil](Images/SentiText_Tamil.png?raw=true "Optional Title")
+
+**EmCee ChatBot for Emotional Model**
+![EmCee Chat1](Images/ChatBot2.png?raw=true "Optional Title")
+![EmCee_Chat2](Images/ChatBot3.png?raw=true "Optional Title")
