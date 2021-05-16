@@ -40,6 +40,6 @@ Thus sentiment and emotion analysis can be performed on huge corpora and can pro
 ![SentiText_English](Images/SentiText_English.png?raw=true "Optional Title")
 ![SentiText_Tamil](Images/SentiText_Tamil.png?raw=true "Optional Title")
 
-**EmCee ChatBot for Emotional Model** <\br>
+**EmCee ChatBot for Emotional Model** <br />
 ![EmCee Chat1](Images/ChatBot2.png?raw=true "Optional Title")
 ![EmCee_Chat2](Images/ChatBot3.png?raw=true "Optional Title")
