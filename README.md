@@ -33,3 +33,7 @@ Classes: 'joy', 'sadness', 'anger', 'fear', 'surprise', 'love'.
 The model thus developed was deployed as a chatbot which could detect the emotion of a given text and respond accordingly.  
 
 Thus sentiment and emotion analysis can be performed on huge corpora and can provide wider insights into the society's mental state. As the amount of textual data available in the form of news articles, tweets and social media posts increases, these models will prove to be very useful for analyses. 
+
+### User Interface: 
+**Senti Text Webpage for Sentiment Model**
+![SentiHome page](Images/SentiText_Homepage.png?raw=true "Optional Title")
